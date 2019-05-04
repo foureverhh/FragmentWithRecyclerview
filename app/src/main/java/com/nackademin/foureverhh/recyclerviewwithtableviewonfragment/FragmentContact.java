@@ -49,7 +49,5 @@ public class FragmentContact extends Fragment {
         contactList.add(new Contact("Jack6","600",R.drawable.jack6));
         contactList.add(new Contact("Jack7","700",R.drawable.jack7));
         contactList.add(new Contact("Jack8","800",R.drawable.jack8));
-
-
     }
 }
